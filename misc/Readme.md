@@ -1,2 +1,2 @@
 ## A directory for misellaneous stuff. 
-Nothing really relevant should be here!
+This is (N02924855) class repository. All work here is mine, except otherwise noted.
