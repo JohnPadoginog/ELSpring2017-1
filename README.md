@@ -1,3 +1,2 @@
 # ELSpring2017
-Repo for Easwaran's Spring 2017 Embedded Linux class
- 
+This is my (N02924855) class repository. All work here is mine, except otherwise noted.
